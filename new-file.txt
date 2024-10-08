@@ -1,4 +1,4 @@
 Added in my dev branch
 
 my name: Omar
-Tech Stack: Java, Spring, Postgres, AWS, Python
+Tech Stack: JavaScript, MongoDB, Node, Express
