@@ -1,4 +1,6 @@
 Added in my dev branch
 
 my name: Omar
-Tech Stack: Python, Django, MySQL
+John: Tech Stack: Python, Django, MySQL John
+
+Omar: Tech Stack: JavaScript, MongoDB, Node, Express
